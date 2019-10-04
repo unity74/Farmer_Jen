@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "çaw_m @hKa-åAha",
+"productVersion": "0.1",
+"dataUrl": "farmer jen.data.unityweb",
+"wasmCodeUrl": "farmer jen.wasm.code.unityweb",
+"wasmFrameworkUrl": "farmer jen.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
